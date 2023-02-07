@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T06:18:09.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mXmRvW9C7tvfkEP8Ws0x" version="20.8.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:20:18.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SiursuZSY3yTnoAcvRUn" version="20.8.17" type="github" pages="2">
   <diagram id="cSWMKLoGGP4RG6YJdNn4" name="As-Is">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="neJseO_to8Oxgh6lxZQH-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;192.168.8.0/24&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;strokeColor=#4d27aa;glass=0;shadow=0;" parent="neJseO_to8Oxgh6lxZQH-9" vertex="1">
           <mxGeometry x="20.5" y="90.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LbLBr8xy3YgAkBmWXg0m-4" value="게스트" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;" vertex="1" parent="NTJq8n4EPSYoU_xXzW_G-1">
+          <mxGeometry x="39" y="200" width="201" height="120.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LbLBr8xy3YgAkBmWXg0m-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;192.168.0.0/24&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;strokeColor=#4d27aa;glass=0;shadow=0;" vertex="1" parent="LbLBr8xy3YgAkBmWXg0m-4">
+          <mxGeometry x="20.5" y="40.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NTJq8n4EPSYoU_xXzW_G-12" value="VPN - 외부 트레픽존" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="280" height="360" as="geometry" />
