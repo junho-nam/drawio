@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T06:53:23.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QQGvHD_T4sXXdUL5F8BA" version="20.8.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-10T07:04:17.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nbYHRdBqaf9fLZbOhyx2" version="20.8.18" type="github" pages="2">
   <diagram id="cSWMKLoGGP4RG6YJdNn4" name="As-Is">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4KtME8uRCzeN-5jXc_AK" name="To-Be">
-    <mxGraphModel dx="2765" dy="2657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
           <mxGeometry x="1220" y="200" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NTJq8n4EPSYoU_xXzW_G-19" value="클라우드 대역" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1000" width="600" height="400" as="geometry" />
+          <mxGeometry x="40" y="1040" width="600" height="400" as="geometry" />
         </mxCell>
         <mxCell id="WKDZx0J2jFqslIZiv7EB-19" value="Cloud 존" style="fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;verticalAlign=top;fontStyle=0;" vertex="1" parent="NTJq8n4EPSYoU_xXzW_G-19">
           <mxGeometry x="39.75" y="39.5" width="520.25" height="320.5" as="geometry" />
