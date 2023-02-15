@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T08:52:44.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QGJFKnNwh91pAROdXd0m" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-15T08:54:21.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wa1DblE-PuhMS_8Wd6I6" version="20.8.20" type="github" pages="2">
   <diagram id="cSWMKLoGGP4RG6YJdNn4" name="As-Is">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4KtME8uRCzeN-5jXc_AK" name="To-Be">
-    <mxGraphModel dx="2074" dy="2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,14 +297,8 @@
         <mxCell id="LbLBr8xy3YgAkBmWXg0m-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;192.168.11.0/24&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;strokeColor=#4d27aa;glass=0;shadow=0;" parent="LbLBr8xy3YgAkBmWXg0m-4" vertex="1">
           <mxGeometry x="20.5" y="40.5" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EgiFuY5ToucnaRxVSp4U-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="EgiFuY5ToucnaRxVSp4U-3" target="EgiFuY5ToucnaRxVSp4U-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EgiFuY5ToucnaRxVSp4U-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EgiFuY5ToucnaRxVSp4U-21" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
-          <mxGeometry x="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EgiFuY5ToucnaRxVSp4U-1" value="Router&lt;br&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="80" height="20" as="geometry" />
