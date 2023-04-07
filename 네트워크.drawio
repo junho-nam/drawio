@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T02:18:48.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pvoVBVPVRol_l52bNSna" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-07T08:20:01.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gBeO0G_b6jgh8nF5pnLx" version="21.1.5" type="github" pages="2">
   <diagram id="cSWMKLoGGP4RG6YJdNn4" name="As-Is">
-    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4KtME8uRCzeN-5jXc_AK" name="To-Be">
-    <mxGraphModel dx="2074" dy="2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,6 +462,33 @@
               <mxPoint x="1290" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fbd5Aq8cM2IbnmoIyQ--5" value="KT - Direct Network" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Fbd5Aq8cM2IbnmoIyQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Fbd5Aq8cM2IbnmoIyQ--5" target="EgiFuY5ToucnaRxVSp4U-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="90" as="sourcePoint" />
+            <mxPoint x="250" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="-30" />
+              <mxPoint x="320" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fbd5Aq8cM2IbnmoIyQ--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="5Fbd5Aq8cM2IbnmoIyQ--5" target="WKDZx0J2jFqslIZiv7EB-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="-70" as="sourcePoint" />
+            <mxPoint x="330" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2020" y="-95" />
+              <mxPoint x="2020" y="980" />
+              <mxPoint x="980" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Fbd5Aq8cM2IbnmoIyQ--9" value="&lt;h1&gt;KT&lt;/h1&gt;&lt;p&gt;고객 공인 IP 대역 : 59.15.2.144/28&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;사용 가능 IP : 59.15.2.145 ~ 157&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;SM : 255.255.255.240&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;GW : 59.15.2.158&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;DNS 1 : 168.126.63.1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;DNS 2 : 168.126.63.2&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-240" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
