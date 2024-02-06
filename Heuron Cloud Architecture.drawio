@@ -1,6 +1,6 @@
-<mxfile modified="2023-04-07T08:12:15.331Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hpPbtocXwPXTikv_cEJD" version="21.1.5" type="github">
+<mxfile modified="2024-02-06T04:23:18.988Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nuoQ5o4aWbidinsg24MX" version="23.0.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2358" dy="1239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="_Tn5D_dkqsPfIdNLR1im-173" value="Public (Open Source)" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
           <mxGeometry x="1540" y="600" width="460" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Heuron Cloud Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="36.5" y="26.5" width="400" height="40" as="geometry" />
+        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="System" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="36.5" y="26.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="AWS Cloud" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="36.5" y="76.5" width="100" height="20" as="geometry" />
@@ -125,6 +125,9 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="290" y="402" as="sourcePoint" />
             <mxPoint x="494" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="634" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_Tn5D_dkqsPfIdNLR1im-89" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -294,10 +297,16 @@
         <mxCell id="_Tn5D_dkqsPfIdNLR1im-267" value="&lt;font color=&quot;#000000&quot; face=&quot;helvetica&quot;&gt;Resource Monitoring&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; color: rgb(153 , 153 , 153)&quot;&gt;&lt;font color=&quot;#999999&quot; face=&quot;helvetica&quot;&gt;서비스 선정 필요&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#5A30B5;strokeColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.service;spacingLeft=10;labelPosition=right;" parent="_Tn5D_dkqsPfIdNLR1im-265" vertex="1">
           <mxGeometry x="10" y="10.5" width="40.03" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="_Tn5D_dkqsPfIdNLR1im-277" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Tn5D_dkqsPfIdNLR1im-281" target="_Tn5D_dkqsPfIdNLR1im-32" edge="1">
+        <mxCell id="_Tn5D_dkqsPfIdNLR1im-277" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_Tn5D_dkqsPfIdNLR1im-281" target="_Tn5D_dkqsPfIdNLR1im-32" edge="1">
           <mxGeometry x="686" y="-120.56" width="100" as="geometry">
             <mxPoint x="90.00142857142873" y="652.1400000000001" as="sourcePoint" />
             <mxPoint x="800" y="130.44" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="230" />
+              <mxPoint x="680" y="230" />
+              <mxPoint x="680" y="250" />
+              <mxPoint x="679" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_Tn5D_dkqsPfIdNLR1im-160" value="" style="group" parent="1" vertex="1" connectable="0">
