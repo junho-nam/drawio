@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T05:52:07.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mKcN9vAUGf_TxgGz9jtM" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-29T05:52:17.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LkMtTEPZh0jPtGYFT5dD" version="24.3.0" type="github" pages="3">
   <diagram id="cSWMKLoGGP4RG6YJdNn4" name="As-Is">
     <mxGraphModel dx="1411" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -495,7 +495,7 @@
         <mxCell id="upO2Om9Jfxb33Aw2KgMH-89" value="client vpn" style="fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;verticalAlign=top;fontStyle=1;container=0;fontSize=15;spacingLeft=40;align=left;" parent="1" vertex="1">
           <mxGeometry x="2600" y="-240" width="280" height="320.5" as="geometry" />
         </mxCell>
-        <mxCell id="upO2Om9Jfxb33Aw2KgMH-21" value="cloud zone (seoul)" style="fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;verticalAlign=top;fontStyle=1;container=0;fontSize=15;align=left;spacingRight=0;spacingLeft=40;" parent="1" vertex="1">
+        <mxCell id="upO2Om9Jfxb33Aw2KgMH-21" value="prod zone (seoul)" style="fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;verticalAlign=top;fontStyle=1;container=0;fontSize=15;align=left;spacingRight=0;spacingLeft=40;" parent="1" vertex="1">
           <mxGeometry x="2039.75" y="-240" width="520.25" height="320.5" as="geometry" />
         </mxCell>
         <mxCell id="upO2Om9Jfxb33Aw2KgMH-20" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=15;fontStyle=1;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#000000;dashed=0;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;" parent="1" vertex="1">
