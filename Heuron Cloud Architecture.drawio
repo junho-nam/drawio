@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gbwAMb7mD5wTqf2xDwTy" name="페이지-2">
-    <mxGraphModel dx="3453" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2825" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,7 +605,7 @@
         <mxCell id="uC0ADaxv9-4r0b2eVak7-7" value="Cloud System" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uC0ADaxv9-4r0b2eVak7-8" value="Hosiptal" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;labelBackgroundColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="uC0ADaxv9-4r0b2eVak7-8" value="Hospital" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;labelBackgroundColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uC0ADaxv9-4r0b2eVak7-9" value="" style="line;strokeWidth=3;html=1;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
